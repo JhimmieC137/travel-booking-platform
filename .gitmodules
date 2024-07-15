@@ -1,0 +1,9 @@
+[submodule "tbk-auth"]
+	path = tbk-auth
+	url = https://github.com/JhimmieC137/tbk-auth.git
+[submodule "tbk-hotel"]
+	path = tbk-hotel
+	url = https://github.com/JhimmieC137/tbk-hotels.git
+[submodule "tbk-flight"]
+	path = tbk-flight
+	url = https://github.com/JhimmieC137/tbk-flight.git
