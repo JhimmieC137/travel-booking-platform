@@ -3,11 +3,11 @@
 
 Combining the different microservices as sub-modules into one repository might cause some issues opening them up, please use the links blow to access the individual repositories
 
+- auth, user management and notification service - 
+[Repo.](https://github.com/JhimmieC137/tbk-auth.git) and [Deployment](https://tbk-auth.onrender.com/docs)
+
 - Flight booking service - 
-[https://github.com/JhimmieC137/tbk-flight.git](https://github.com/JhimmieC137/tbk-flight.git)
+[Repo.](https://github.com/JhimmieC137/tbk-flight.git) and [deployment](https://tbk-flight.onrender.com/docs)
 
 - Hotel reservation servie - 
-[https://github.com/JhimmieC137/tbk-hotels.git](https://github.com/JhimmieC137/tbk-hotels.git)
-
-- auth, user management and notification service - 
-[https://github.com/JhimmieC137/tbk-auth.git](https://github.com/JhimmieC137/tbk-auth.git)
+[Repo.](https://github.com/JhimmieC137/tbk-hotels.git) and [Deployment](https://tbk-hotels.onrender.com/docs)
