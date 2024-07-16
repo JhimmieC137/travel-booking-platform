@@ -7,7 +7,7 @@ Combining the different microservices as sub-modules into one repository might c
 [Repo.](https://github.com/JhimmieC137/tbk-auth.git) and [Deployment](https://tbk-auth.onrender.com/docs)
 
 - Flight booking service - 
-[Repo.](https://github.com/JhimmieC137/tbk-flight.git) and [deployment](https://tbk-flight.onrender.com/docs)
+[Repo.](https://github.com/JhimmieC137/tbk-flight.git) and [Deployment](https://tbk-flight.onrender.com/docs)
 
 - Hotel reservation servie - 
 [Repo.](https://github.com/JhimmieC137/tbk-hotels.git) and [Deployment](https://tbk-hotels.onrender.com/docs)
