@@ -11,3 +11,6 @@ Combining the different microservices as sub-modules into one repository might c
 
 - Hotel reservation servie - 
 [Repo.](https://github.com/JhimmieC137/tbk-hotels.git) and [Deployment](https://tbk-hotels.onrender.com/docs)
+
+- Notification servie - 
+[Repo.](https://github.com/JhimmieC137/tbk-notifications.git) and [Deployment](https://tbk-notifications.onrender.com/docs)
